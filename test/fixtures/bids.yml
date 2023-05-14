@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  interest_rate: 1.5
+  bank: one
+  loan_request: one
+
+two:
+  interest_rate: 1.5
+  bank: two
+  loan_request: two
